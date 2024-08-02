@@ -1,8 +1,11 @@
-# CS179MProject
-This project uses A* search to find an optimal path for 2 different goal states. 
+# AI Senior Project
 
-The problem this project aims to solve is to reduce the amount of time it takes for a shipyard crane operator to move containers by providing a set of optimal moves the operator should make.
+This project uses A* search to determine the optimal order of operations for unloading/loading and balancing shipping containers.
 
-Current Progress Demo: https://github.com/krystalpothilat/CS179MProject/assets/60625627/0886b70d-73c1-4f99-b595-4c08c195eed4
+Admin User Guide / Installation Instructions: https://github.com/RDanover/AI-Senior-Project/blob/master/Integrative_Systems_Admin_User_Guide.pdf
 
-Installation Instructions: https://docs.google.com/document/d/1ZfhQ22tWtBhUF6D_Pk5wNcrGJUxtgMHT3eYrI6_1ZIs/edit?usp=sharing
+User Guide: https://github.com/RDanover/AI-Senior-Project/blob/master/Integrative_Systems_User_Guide.pdf
+
+Video Demo: https://youtu.be/pwZba2Zj8XQ
+
+Test Document: https://github.com/RDanover/AI-Senior-Project/blob/master/Integrative_Systems_Testing.pdf
